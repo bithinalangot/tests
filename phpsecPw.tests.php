@@ -12,7 +12,6 @@
 
 */
 
-require_once 'phpSec/phpsec/phpsec.pw.php';
 
 $tf -> test("phpsecPW: hash()",function($tf){
 
